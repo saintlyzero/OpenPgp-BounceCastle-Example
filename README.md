@@ -1,4 +1,4 @@
-)OpenPgp-BounceCastle-Example
+OpenPgp-BounceCastle-Example
 ============================
 
 This is an OpenPgp + BounceCastle, Java Example, for education. Check the 3 test methods inside the class org.jdamico.bc.openpgp.tests.TestBCOpenPGP:
